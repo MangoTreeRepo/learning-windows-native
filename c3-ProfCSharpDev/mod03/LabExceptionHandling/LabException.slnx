@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LabException.Core/LabException.Core.csproj" />
+  <Project Path="LabException.Tests/LabException.Tests.csproj" />
+</Solution>

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Packt.Shared/Packt.Shared.csproj" />
+  <Project Path="PeopleApp/PeopleApp.csproj" />
+</Solution>

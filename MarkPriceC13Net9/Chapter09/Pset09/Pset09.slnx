@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="NetDash.CLI/NetDash.CLI.csproj" />
+  <Project Path="NetDash.ServerUtilities/NetDash.ServerUtilities.csproj" />
+</Solution>

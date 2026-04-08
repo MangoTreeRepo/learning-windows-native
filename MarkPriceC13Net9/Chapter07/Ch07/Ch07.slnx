@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AssembliesAndNamespaces/AssembliesAndNamespaces.csproj" />
+  <Project Path="DotNetEverywhere/DotNetEverywhere.csproj" />
+  <Project Path="SharedLibrary/SharedLibrary.csproj" />
+</Solution>
